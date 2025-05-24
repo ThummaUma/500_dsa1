@@ -1308,6 +1308,73 @@
             "Done": "<->",
             "URL": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/"
         },
+        
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find a pair with given sum in a Balanced BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Ceil in a BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Print BST keys in given Range ",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/print-bst-keys-in-given-range-o1-space/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Inversion count in Array Using Self-Balancing BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/inversion-count-in-array-using-self-balancing-bst/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Optimal Binary Search Tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/ancing-bst/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Merge two BSTs with limited extra space",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Sorted Linked List to Balanced BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/sorted-linked-list-to-balanced-bst/"
+        }, 
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Insertion in an AVL Tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/insertion-in-an-avl-tree/"
+        }, 
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Maximum Unique Element in every subarray of size K",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-unique-element-every-subarray-size-k/"
+        }, 
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Recover BST - Two Nodes are Swapped, Correct it",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/"
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Leaf nodes from Preorder of a Binary Search Tree (Using Recursion)",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/leaf-nodes-preorder-binary-search-treeusing-recursion/"
+        },
         {
             "Topic:": "Greedy",
             "Problem: ": "Activity Selection Problem",
